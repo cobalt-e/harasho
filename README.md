@@ -16,4 +16,4 @@ For each version, sql files to modify the EOS database to the desired database w
 
 If you want to make your own game version (with modified database and such), it's recommended to create a fork or a new repository with the same structure and point to it from elichika (or your fork / version of it).
 
-Note that server-sided contents like gachas or exchanges is not included here.
+Note that server-sided contents like gachas or exchanges is not included here.# repository
